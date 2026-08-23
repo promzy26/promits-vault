@@ -1,0 +1,22 @@
+[
+  {
+    "id": "super-game-x",
+    "name": "Super Game X",
+    "version": "1.2.0",
+    "size": "45 MB",
+    "category": "Games",
+    "icon": "icons/game-icon.png",
+    "description": "An action-packed arcade game with stunning graphics and smooth gameplay.",
+    "downloadUrl": "apks/super-game-x.apk"
+  },
+  {
+    "id": "productivity-hub",
+    "name": "Productivity Hub",
+    "version": "2.0.1",
+    "size": "15 MB",
+    "category": "Tools",
+    "icon": "icons/productivity-icon.png",
+    "description": "Manage your daily tasks, notes, and schedules efficiently in one place.",
+    "downloadUrl": "apks/productivity-hub.apk"
+  }
+]
