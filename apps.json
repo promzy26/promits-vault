@@ -1,22 +1,12 @@
 [
   {
-  "id": "listify",
-  "name": "Listify",
-  "version": "1.0.0",
-  "size": "25 MB",
-  "category": "Productivity",
-  "icon": "icons/listify-icon.png",
-  "description": "Streamline your daily routine with Listify, an elegant task management application designed to help you organize priorities, monitor daily progress, and stay effortlessly focused on your goals.",
-  "downloadUrl": "apks/listify.apk"
-},
-  {
-    "id": "super-game-x",
-    "name": "Super Game X",
-    "version": "1.2.0",
-    "size": "45 MB",
-    "category": "Games",
-    "icon": "icons/game-icon.png",
-    "description": "An action-packed arcade game with stunning graphics and smooth gameplay.",
-    "downloadUrl": "apks/super-game-x.apk"
+    "id": "listify",
+    "name": "Listify",
+    "version": "1.0.1",
+    "size": "46 MB",
+    "category": "Productivity",
+    "icon": "icons/listify-icon.png",
+    "description": "Streamline your daily routine with Listify, an elegant task management application designed to help you organize priorities, monitor daily progress, and stay effortlessly focused on your goals.",
+    "downloadUrl": "https://drive.google.com/uc?export=download&id=1Q3rpSaHLPvejXBo41x3G3ZwvSmCSyoQ8"
   }
 ]
