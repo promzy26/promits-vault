@@ -10,13 +10,13 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Q3rpSaHLPvejXBo41x3G3ZwvSmCSyoQ8"
   },
   {
-    "id": "super-game-x",
-    "name": "Super Game X",
-    "version": "1.2.0",
-    "size": "45 MB",
-    "category": "Games",
+    "id": "example",
+    "name": "Example",
+    "version": "null",
+    "size": "0mb",
+    "category": "ND",
     "icon": "icons/game-icon.png",
-    "description": "An action-packed arcade game with stunning graphics and smooth gameplay.",
-    "downloadUrl": "apks/super-game-x.apk"
+    "description": "Example",
+    "downloadUrl": "https://www.youtube.com/watch?v=DewxKKMrIic&list=RDDewxKKMrIic&start_radio=1"
   }
 ]
