@@ -10,13 +10,13 @@
     "downloadUrl": "https://drive.google.com/uc?export=download&id=1Q3rpSaHLPvejXBo41x3G3ZwvSmCSyoQ8"
   },
   {
-    "id": "example",
-    "name": "Example",
+    "id": "SSEC",
+    "name": "SSEC",
     "version": "null",
     "size": "0mb",
-    "category": "ND",
-    "icon": "icons/game-icon.png",
-    "description": "Example",
-    "downloadUrl": "https://www.youtube.com/watch?v=DewxKKMrIic&list=RDDewxKKMrIic&start_radio=1"
+    "category": "Education",
+    "icon": "icons/SSEC-icon.png",
+    "description": "The SSEC Tuition App keeps you connected to your classes by letting you check your daily routine, allowing teachers to take attendance easily, and giving everyone instant access to the latest notices in one simple place.",
+    "downloadUrl": "#U_D"
   }
 ]
