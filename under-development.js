@@ -1,8 +1,8 @@
-// Dynamic custom modal pop-up for under-development apps
+// Intercept clicks on any download links pointing to #U_D
 document.addEventListener('click', function(event) {
-    const targetLink = event.target.closest('a');
+    const target = event.target.closest('a');
     
-    if (targetLink && targetLink.getAttribute('href') === '#U_D') {
+    if (target && target.getAttribute('href') === '#U_D') {
         event.preventDefault();
         
         let modal = document.getElementById('customDevModal');
@@ -21,16 +21,14 @@ document.addEventListener('click', function(event) {
             document.body.appendChild(modal);
 
             document.getElementById('closeDevModal').addEventListener('click', () => {
-                modal.classList.add('hidden');
+                modal.remove();
             });
             
             modal.addEventListener('click', (e) => {
                 if (e.target === modal) {
-                    modal.classList.add('hidden');
+                    modal.remove();
                 }
             });
-        } else {
-            modal.classList.remove('hidden');
         }
     }
 });
